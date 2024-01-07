@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Selvanayagan Banner]([https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg](https://github.com/selvacreation/selvacreation/blob/main/Slide1.jpg?raw=true))
+![Selvanayagan Banner](https://github.com/selvacreation/selvacreation/blob/main/Slide1.jpg?raw=true)
 
 
 - 🔭 I’m currently working on ...
