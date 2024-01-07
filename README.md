@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-![Selvanayagan Banner](https://github.com/selvacreation/selvacreation/blob/main/Slide1.jpg?raw=true)
+![Selvanayagan Banner](https://github.com/selvacreation/selvacreation/blob/main/Slide1%20(1).jpg?raw=true)
 
 
 - 🔭 I’m currently working on ...
